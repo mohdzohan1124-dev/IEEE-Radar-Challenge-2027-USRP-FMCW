@@ -2,4 +2,6 @@
 
 Institution: PA College of Engineering, Mangaluru.
 
-The proposal identifies four team members and a faculty advisor. Add each approved public profile using the following fields: name, department, project role, relevant skills and optional professional profile link. Obtain permission before publication. Do not publish private contact details.
+The team confirms that all four members have agreed to publication of their profiles. Faculty advisor approval has also been received, as reported by the team.
+
+Individual profile details remain to be supplied and checked. Suggested fields: name, department, project role, relevant skills and optional professional profile link. Do not publish private contact details.
