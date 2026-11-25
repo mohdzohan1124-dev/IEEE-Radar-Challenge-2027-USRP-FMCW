@@ -23,4 +23,4 @@ The project proposes controlled laboratory research into software-defined radar 
 Approved laboratory research documentation, verified measurements, limitations report, presentation and demonstration. All testing requires faculty supervision and applicable authorization. Human participation requires informed consent and institutional approval.
 
 ## Submission status
-Faculty review, team permissions, license approval and final proposal submission remain pending.
+Faculty advisor approval and permission from all team members to publish profiles have been received, as reported by the team. Final hardware and software selection, licensing approval, profile completion and proposal submission remain pending.
